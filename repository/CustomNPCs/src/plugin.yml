@@ -1,0 +1,7 @@
+main: me.Bigbrave07.CustomNPCS.Main
+name: CustomNPCs
+version: v1.0.2	
+author: Bigbrave07
+api-version: 1.16
+commands:
+ createnpc:
